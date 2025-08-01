@@ -1,3 +1,5 @@
+# Sudoku Game (Python + Tkinter)
+
 Welcome! This is an Interactive Graphical Sudoku Game created by using Python’s Tkinter library! This game allows you to solve Sudoku puzzles of different difficulty levels. 
 
 ---
